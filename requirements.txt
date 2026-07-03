@@ -1,1 +1,13 @@
+streamlit
+pandas
+openpyxl
+xlrd
+plotly
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+ydata-profiling
+sweetviz
 
